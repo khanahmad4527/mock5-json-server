@@ -1,10 +1,53 @@
 {
-  "product": [
+  "dogs": [
     {
-      "1": [1, 2, 3, 4, 5, 6],
-      "2": [1, 2, 3, 4, 5, 6],
-      "3": [1, 2, 3, 4, 5, 6],
-      "4": [1, 2, 3, 4, 5, 6]
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Bangalore",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Jerry",
+      "age": 5,
+      "place": "Mumbai",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Po",
+      "age": 8,
+      "place": "Mumbai",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "Pap",
+      "age": 4,
+      "place": "Goa",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Tom",
+      "age": 4,
+      "place": "Hyderabad",
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "name": "Mau",
+      "age": 4,
+      "place": "Lucknow",
+      "gender": "Male"
     }
   ]
 }
